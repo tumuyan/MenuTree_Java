@@ -1,0 +1,4 @@
+# ignore all files in the .idea/ directory
+.idea/
+out/
+META-INF/
